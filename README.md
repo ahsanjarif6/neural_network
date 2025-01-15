@@ -44,3 +44,20 @@ The **FashionMNIST** dataset was used for training and evaluation. It consists o
 - **No External Deep Learning Libraries**: Implementation is done from scratch using only allowed libraries (e.g., NumPy, Matplotlib).
 - **Modular Code**: Easily adaptable to different architectures or datasets.
 - **Pickle Support**: Save and load the trained model for future predictions.
+
+---
+
+## Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/neural_network.git
+   cd neural_network
+2.Ensure the following files are present in the repository:
+
+- 1905092.ipynb: Jupyter notebook containing the implementation.
+- model_1905092.pickle: Pickle file for the saved model or weights.
+- report_1905092.pdf: PDF report with training and evaluation results.
+- fashion-mnist_train.csv: Training dataset.
+- fashion-mnist_test.csv: Test dataset.
+All these files must be placed in the same folder for the project to run correctly.
